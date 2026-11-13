@@ -1,16 +1,15 @@
-## Hi there 👋
+### SEPTMARS. — Independent Digital Practice & Creative Technology
 
-<!--
-**paataarchaia/paataarchaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Paata Archaia** — Web Architect, Visual Designer, and AI Practitioner with 10+ years of experience building clean, high-performance digital products.
 
-Here are some ideas to get you started:
+- **Philosophy:** Slow Web, zero unnecessary bloat, architectural precision, and 100/100 Core Web Vitals.
+- **Current Focus:** Static web ecosystems (`Astro`, `Tailwind CSS`, `HTML5`, `Alpine.js`), local Node.js build pipelines, and AI-assisted workflows.
+- **Active Platforms:** 
+  - [septmars.com](https://septmars.com) — Personal Portfolio & Digital Archive
+  - [unitedgeorgians.co.uk](https://unitedgeorgians.co.uk) — Bilingual Community Hub (100/100 Lighthouse)
+  - *In Development:* `headline.ge` • `aistory.ge` • `goweb.ge` • `lageorgie.com`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Stack & Tools:**
+`HTML5` • `CSS3` • `Tailwind CSS` • `Astro` • `JavaScript` • `Node.js` • `Figma` • `Adobe Creative Suite` • `AI & Prompt Engineering`
+
+**Connect:** [septmars.com](https://septmars.com) • [LinkedIn](https://www.linkedin.com/in/septmars/)
